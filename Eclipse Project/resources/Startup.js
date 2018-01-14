@@ -1,0 +1,1 @@
+var console = Java.type("com.hhoca.utils.Console");
